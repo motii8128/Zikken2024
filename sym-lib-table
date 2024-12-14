@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TA7291P")(type "KiCad")(uri "${KIPRJMOD}/TA7291P.kicad_sym")(options "")(descr ""))
+)
