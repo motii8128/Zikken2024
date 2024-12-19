@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Zikken.kicad_pro",
+    "filename": "Zikken2024.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -469,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Zikken2024.step",
       "svg": "",
       "vrml": ""
     },
